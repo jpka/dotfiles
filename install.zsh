@@ -1,3 +1,5 @@
+#!/bin/zsh
+
 local OHMY=$HOME/.oh-my-zsh
 
 if ! test -d $OHMY
@@ -7,5 +9,7 @@ fi
 local CUSTOM=$OHMY/custom
 
 rm -r $CUSTOM
-ln -s -f $PWD/.oh-my-zsh-custom $CUSTOM
+ln -s -f $PWD/oh-my-zsh $CUSTOM
 ln -f .zshrc $HOME/.zshrc
+
+cp z.sh $HOME/.

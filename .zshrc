@@ -29,7 +29,7 @@ ZSH_THEME="jpka"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git node ruby jpka)
+plugins=(git node ruby vim jpka)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -42,3 +42,8 @@ unsetopt correct_all
 . ~/nvm/nvm.sh
 
 [[ -s "/home/jpka/.rvm/scripts/rvm" ]] && source "/home/jpka/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+
+. ~/z.sh
+precmd () {
+  z --add "$(pwd -P)"
+}

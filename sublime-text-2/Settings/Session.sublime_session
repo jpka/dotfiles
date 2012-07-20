@@ -1,0 +1,2616 @@
+{
+	"folder_history":
+	[
+		"/home/jpka/dev/jpka",
+		"/home/jpka/dev/iSeatz",
+		"/home/jpka/Dropbox/Dev/jpka",
+		"/media/Ramirez/Dev/jpka",
+		"/home/jpka/dev/OSS/meteor",
+		"/home/jpka/dev/OSS/meteor/admin",
+		"/home/jpka/dev/OSS",
+		"/home/jpka/dev/OSS/cucumber",
+		"/home/jpka/Dropbox/Dev/ouroboros-api",
+		"/home/jpka/dev/OSS/cradle",
+		"/home/jpka/dev/work/iSeatz",
+		"/home/jpka/dev/ouroboros-api",
+		"/media/Ramirez/Dev/iSeatz",
+		"/media/Ramirez/Dev/iSeatz/amex"
+	],
+	"last_window_id": 54,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"to",
+						"to_hash"
+					],
+					[
+						"drawing",
+						"drawingCard"
+					],
+					[
+						"togg",
+						"toggleFocusMode"
+					],
+					[
+						"new",
+						"newState"
+					],
+					[
+						"list",
+						"listView"
+					],
+					[
+						"current",
+						"current_user"
+					],
+					[
+						"curren",
+						"current_user"
+					],
+					[
+						"d",
+						"drawingCard"
+					],
+					[
+						"bel",
+						"belongsToBrowser"
+					],
+					[
+						"change",
+						"changeSize"
+					],
+					[
+						"dra",
+						"drawingCard"
+					],
+					[
+						"set",
+						"setTimeout"
+					],
+					[
+						"limi",
+						"limitWasRespected"
+					],
+					[
+						"attrs",
+						"attributes"
+					],
+					[
+						"fi",
+						"fixtures"
+					],
+					[
+						"save",
+						"saveFailure"
+					],
+					[
+						"sho",
+						"shouldDrawItself"
+					],
+					[
+						"is",
+						"isDrawn"
+					],
+					[
+						"dr",
+						"drawLineCode"
+					],
+					[
+						"pre",
+						"preventDefault"
+					],
+					[
+						"flight",
+						"flight_number"
+					],
+					[
+						"prom",
+						"promotions"
+					],
+					[
+						"drawin",
+						"drawingCard"
+					],
+					[
+						"selec",
+						"selectBox"
+					],
+					[
+						"has",
+						"hasClass"
+					],
+					[
+						"selectBo",
+						"selectBox-selected"
+					],
+					[
+						"elem",
+						"elemSelected"
+					],
+					[
+						"h",
+						"higherGround"
+					],
+					[
+						"regist",
+						"registerAuthor"
+					],
+					[
+						"dial",
+						"dialogWidth"
+					],
+					[
+						"input",
+						"input_html"
+					],
+					[
+						"success",
+						"successHandler"
+					],
+					[
+						"serve",
+						"serveJSON"
+					],
+					[
+						"b",
+						"b"
+					],
+					[
+						"tem",
+						"tempObj"
+					],
+					[
+						"tabs",
+						"tabs-reviews"
+					],
+					[
+						"perP",
+						"resultsPerPage"
+					],
+					[
+						"start",
+						"startingPage"
+					],
+					[
+						"results",
+						"resultsPerPage"
+					],
+					[
+						"filter",
+						"filteredResults"
+					],
+					[
+						"filtered",
+						"filteredResults"
+					],
+					[
+						"check",
+						"checkChange"
+					],
+					[
+						"hotel",
+						"hotel_searches"
+					],
+					[
+						"filt",
+						"filterManager"
+					],
+					[
+						"update",
+						"updateOrNo"
+					],
+					[
+						"hotels",
+						"hotels"
+					],
+					[
+						"_jq-re",
+						"_jq-no-rates-error"
+					],
+					[
+						"scrol",
+						"scrollTop"
+					],
+					[
+						"th",
+						"thresholdElement"
+					],
+					[
+						"pageMar",
+						"pageMarkerClass"
+					],
+					[
+						"_ajaxScroll",
+						"_ajaxScroll-pageMarker"
+					],
+					[
+						"text",
+						"texto"
+					],
+					[
+						"ax",
+						"axFilterUI"
+					],
+					[
+						"widg",
+						"widgetEventPrefix"
+					],
+					[
+						"value",
+						"value"
+					],
+					[
+						"val",
+						"val"
+					],
+					[
+						"fil",
+						"filter-type"
+					],
+					[
+						"filter-t",
+						"filter-tag"
+					],
+					[
+						"clear",
+						"clearFiltersAndFlyout"
+					],
+					[
+						"reset",
+						"resetFilter"
+					],
+					[
+						"filter-tag",
+						"filter-tag-row"
+					],
+					[
+						"filter-ta",
+						"filter-tag-row"
+					],
+					[
+						"muli",
+						"multiselect"
+					],
+					[
+						"multi",
+						"multiselect"
+					],
+					[
+						"tag",
+						"tag"
+					],
+					[
+						"Fi",
+						"FiltersAppliedFlyout"
+					],
+					[
+						"filter-",
+						"filter-tag-row"
+					],
+					[
+						"cle",
+						"clearBtn"
+					],
+					[
+						"def",
+						"defValue"
+					],
+					[
+						"get",
+						"getValue"
+					],
+					[
+						"HotelSea",
+						"HotelSearchMock"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 192.0,
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Add Repository"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Switch"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 153.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/jpka/dev/jpka/grunt.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/cart/cart_payment.scss",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/carts/checkout.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/_pay_with_amex_ccard.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/_payment_form.html.haml",
+				"/home/jpka/Dropbox/Dev/jpka/client/lib/chai-jquery.js",
+				"/home/jpka/Dropbox/Dev/jpka/jpka.coffee",
+				"/home/jpka/Dropbox/Dev/jpka/client/0_tests.coffee",
+				"/home/jpka/Dropbox/Dev/jpka/tests.coffee",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotels/checkout/_guest_info.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/shared.scss",
+				"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/cart/air_reprice.scss",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/flight_searches/flight_confirmation/_cost_billing_info.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/flight_searches/flight_review/_travel_benefits.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/helpers/ovt/flight_searches_helper.rb",
+				"/home/jpka/dev/iSeatz/amex/app/helpers/ovt/application_helper.rb",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/shared/_flight_rate_cards.html.haml",
+				"/home/jpka/dev/iSeatz/pbr/proto/air_shop_response.proto",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/cart_products/fare_rules.html.haml",
+				"/home/jpka/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/jpka/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/car/car_searches.scss",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/car/car_searches.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/car_searches/overlays/_rental_policies.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/car_searches/show.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/car_searches/_form.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/shared.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/car/car_omniture.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/car/car_shared.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/car_searches/_matrix.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotel_searches/_hotel_card.html.hbs",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/car_searches/overlays/_discount_codes.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/car_searches/overlays/_non_airport_rentals.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotel_searches/show.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotels/show.html.haml",
+				"/home/jpka/dev/iSeatz/pbr/proto/hotel_common.proto",
+				"/home/jpka/dev/iSeatz/ovt/app/controllers/ovt/hotels_controller.rb",
+				"/home/jpka/dev/iSeatz/ovt/app/models/ovt/hotel.rb",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotel_searches/_filter_form.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/ax/axHotelFilters.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/package/_flight_card.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/shared-components/shared-ui.scss",
+				"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/cart.scss",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/iz/izCatComplete.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/hotel/hotel_searches.scss",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/package/_your_flight.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/flight/_cart.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/package/_cart.html.haml",
+				"/home/jpka/dev/iSeatz/ovt/app/controllers/ovt/package_searches_controller.rb",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/iz/izLocationAutocomplete.js",
+				"/home/jpka/Dropbox/Dev/jpka/drawingCard",
+				"/home/jpka/Dropbox/Dev/jpka/client/test/drawing.coffee",
+				"/home/jpka/Dropbox/Dev/jpka/test/drawing.coffee",
+				"/home/jpka/Dropbox/Dev/jpka/drawCard.coffee",
+				"/home/jpka/Dropbox/Dev/ouroboros-api/node_modules/cucumber/node_modules/gherkin/lib/gherkin/lexer/en.js",
+				"/home/jpka/dev/iSeatz/amex/Gemfile",
+				"/home/jpka/dev/iSeatz/ovt/app/controllers/ovt/carts_controller.rb",
+				"/home/jpka/dev/iSeatz/ovt/app/controllers/ovt/cart_products_controller.rb",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/_pay_with_any_ccard.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/cars/checkout/_checkout_head.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/edit.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/air/air.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/air/checkout.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/air/air_shared.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/flight_searches/flight_review/_payment_form_logged.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/cars/checkout/_payment_form.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/_ccard_form.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/shared/_pay_with_ccard.html.haml",
+				"/usr/share/applications/skype.desktop",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/flight_searches/overlays/_help_overlay.html.haml",
+				"/home/jpka/Dropbox/Dev/ouroboros-api/features/replication.feature",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/cars/checkout/_driver_info.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/car/cars.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotels/checkout/_guest_room_info.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/carts/carts.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/cars/_car_checkout.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/car/cars.scss",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/hotel/hotels.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/carts/payment.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/car/_cart.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/cars/_car_info.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotels/checkout/_hotel_checkout.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/hotel/hotel_omniture.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/air/air_omniture.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/shared/_payment_form.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/ax/axMapForm.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/iz/izAjaxValidator.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/iz/izJSValidator.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/shared/_cc_information.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/flight_searches/flight_review/_who_is_flying.html.haml",
+				"/home/jpka/Dropbox/Dev/ouroboros-api/stab.coffee",
+				"/home/jpka/Dropbox/Dev/ouroboros-api/features/work.feature",
+				"/home/jpka/Dropbox/Dev/ouroboros-api/features/step_definitions/controllers.iced",
+				"/home/jpka/Dropbox/Dev/ouroboros-api/features/works/creation.feature",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/shared/_seat_selection.html.haml",
+				"/home/jpka/dev/iSeatz/ovt/app/models/ovt/seat_map.rb",
+				"/home/jpka/dev/iSeatz/ovt/app/models/ovt/passenger.rb",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/air/checkout_seats_selection.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/ax/axFilterUI.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/ax/axFiltersFlyout.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/application/_hotel_carousel_reviews.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/hotel/hotel_searches.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/ax/axCheckboxesList.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/package/package-shared.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/ax/axAjaxScroll.js",
+				"/home/jpka/dev/iSeatz/ovt/app/models/ovt/cart.rb",
+				"/home/jpka/dev/iSeatz/ovt/app/models/ovt/customer.rb",
+				"/home/jpka/dev/iSeatz/ovt/app/models/ovt/cart_product/hotel.rb",
+				"/home/jpka/dev/iSeatz/ovt/app/models/ovt/guest.rb",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/trip_lookups/show.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/cars/details/_driver_info.html.haml",
+				"/home/jpka/dev/iSeatz/ovt/app/models/ovt/flight_search.rb",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/package_searches/_rp_your_hotel.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/package/package-show.js",
+				"/home/jpka/dev/iSeatz/amex/config/environments/fixed.rb",
+				"/home/jpka/dev/iSeatz/amex/config/environments/home.rb",
+				"/media/Ramirez/Dev/iSeatz/hotel_search_manager.rb",
+				"/home/jpka/dev/iSeatz/ovt/lib/ovt/hotel_search_manager.rb",
+				"/home/jpka/dev/iSeatz/amex/config/environments/office.rb",
+				"/home/jpka/dev/iSeatz/amex/config/environments/development.rb",
+				"/home/jpka/dev/iSeatz/ovt/config/locales/en.yml",
+				"/home/jpka/dev/iSeatz/amex/config/locales/en.yml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/shared.scss",
+				"/home/jpka/dev/iSeatz/ovt/app/controllers/ovt/hotel_searches_controller.rb",
+				"/home/jpka/dev/iSeatz/ovt/app/controllers/ovt/locations_controller.rb",
+				"/media/Ramirez/Dev/jpka/public/js/mocha.js",
+				"/media/Ramirez/Dev/jpka/app.coffee",
+				"/home/jpka/dev/jpka/test/drawingCard.coffee"
+			],
+			"find":
+			{
+				"height": 47.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/home/jpka/dev/iSeatz/ovt",
+					"/home/jpka/dev/iSeatz/ovt/app",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/air",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/hotel",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/carts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/Dropbox/Dev/jpka/client",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotels/checkout",
+					"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotels",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/hotel",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex",
+					"/home/jpka/dev/iSeatz/pbr",
+					"/home/jpka/dev/iSeatz/ovt",
+					"/home/jpka/dev/iSeatz/amex",
+					"/home/jpka/dev/iSeatz/ovt",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/car_searches",
+					"/home/jpka/dev/iSeatz/amex/app",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/car_searches",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/car",
+					"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotel_searches",
+					"/home/jpka/dev/iSeatz/pbr/proto",
+					"/home/jpka/dev/iSeatz/ovt",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotels",
+					"/home/jpka/dev/iSeatz/amex",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/package",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/flight_searches",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/car",
+					"/home/jpka/dev/OSS/cradle",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/cars",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/car",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/car",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/ovt",
+					"/home/jpka/dev/iSeatz/amex",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/ovt",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/ovt/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/ovt/app/models",
+					"/home/jpka/dev/iSeatz/ovt",
+					"/home/jpka/dev/iSeatz/ovt/app/models/ovt",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/hotel",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/hotel",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/flight_searches/flight_review",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/flight_searches/flight_confirmation",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/ovt/app/controllers",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/media/Ramirez/Dev/iSeatz/amex/app/assets/javascripts",
+					"/media/Ramirez/Dev/iSeatz/amex/app/assets/javascripts/ax",
+					"/home/jpka/dev/iSeatz/ovt",
+					"/home/jpka/dev/iSeatz/amex",
+					"/home/jpka/dev/iSeatz/ovt",
+					"/home/jpka/dev/iSeatz",
+					"/media/Ramirez/Dev/iSeatz/amex/app/assets/stylesheets",
+					"/media/Ramirez/Dev/iSeatz/amex/app/assets/javascripts",
+					"/media/Ramirez/Dev/iSeatz/amex/app/views",
+					"/media/Ramirez/Dev/iSeatz/amex/app/assets/javascripts",
+					"/media/Ramirez/Dev/iSeatz/amex/app/views",
+					"/media/Ramirez/Dev/iSeatz/amex/app/assets/javascripts"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"hashkey",
+					"email",
+					"real_credit_card",
+					"state_pro",
+					"customer",
+					"postal_code",
+					"validate",
+					"eye",
+					"red_eye",
+					"red-eye",
+					"hotel",
+					"nights",
+					"nights-and-rooms",
+					"models",
+					"currentStyle",
+					"jsonPro",
+					"moreHotelsRequest",
+					"pay-with-points-form",
+					"paymentValidator",
+					"paymentInfo",
+					"payment-module",
+					"user",
+					".payment-module",
+					"add",
+					"gallery.less",
+					"fix",
+					"params",
+					"valid",
+					"should",
+					"#guest-info",
+					"_jq-edit",
+					"edit-guests",
+					"edit-payment",
+					"_jq-custom-edit",
+					"edit-guests",
+					"jq-custom-edit",
+					"._jq-air-taxes-fees-link",
+					"underline",
+					"total_price",
+					"air-taxes-fees-link",
+					"Airpo",
+					"collapsed_change_of_airport",
+					"collapsed_change_planes",
+					"change_of_airport",
+					"white",
+					"change_airport",
+					"airport",
+					"collapsed_change_planes",
+					"airport",
+					"Change airport",
+					"expanded_change_airport",
+					"airport_change_at",
+					"change of ai",
+					"info-layovers",
+					"info_layovers",
+					"fares-dialog",
+					"#_jq-rental-policies-dialog",
+					"rental-policies",
+					"rental",
+					"car rental rates",
+					"car_rental_rates",
+					"scrollbar",
+					"scroll-bar",
+					"one-way-rentals",
+					"about-airport",
+					"airport",
+					"setCarDialog",
+					"setCarDialo",
+					"function setCarDi",
+					"setCarDi",
+					"help-title-cars",
+					"How do I search",
+					"about-airport",
+					"non-airport",
+					"More",
+					"promotion-more",
+					"promo-tip",
+					"promotionalInfo",
+					"message Rate",
+					"Rate",
+					"promo",
+					"offer",
+					"special",
+					"first_detail_column",
+					"special offer",
+					"ctrl",
+					"last-selected",
+					"elemSelected",
+					"selectBox-last-selected",
+					"multi",
+					"selectBox-menuShowing",
+					"flight_search_preferred_airlines",
+					"flight_search",
+					"select",
+					"select-preferred",
+					"select-preferred-airlines",
+					"charges-restrictions",
+					"name-filter-wrapper",
+					"axHotelFilterSpi",
+					"spinner",
+					"zIndex",
+					"z-index",
+					"title-details",
+					"roundtrip",
+					"flight-information",
+					"title-details-holder",
+					"paper",
+					"imagesLoadError",
+					"allowedK",
+					"= 13",
+					"commit",
+					"li.button",
+					"li-button",
+					"commit",
+					"button-search-cars",
+					"button",
+					"commit",
+					"create",
+					"button-search-cars",
+					"SCENARIO",
+					"prototype.request",
+					"request",
+					"imagesLoadError",
+					"side-box",
+					"why-book",
+					"why book",
+					"why bookç",
+					"whybook"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"customer.",
+					"this.page "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 371.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"drawing",
+						"drawingCard"
+					],
+					[
+						"togg",
+						"toggleFocusMode"
+					],
+					[
+						"new",
+						"newState"
+					],
+					[
+						"list",
+						"listView"
+					],
+					[
+						"current",
+						"current_user"
+					],
+					[
+						"curren",
+						"current_user"
+					],
+					[
+						"d",
+						"drawingCard"
+					],
+					[
+						"bel",
+						"belongsToBrowser"
+					],
+					[
+						"change",
+						"changeSize"
+					],
+					[
+						"dra",
+						"drawingCard"
+					],
+					[
+						"set",
+						"setTimeout"
+					],
+					[
+						"limi",
+						"limitWasRespected"
+					],
+					[
+						"attrs",
+						"attributes"
+					],
+					[
+						"fi",
+						"fixtures"
+					],
+					[
+						"save",
+						"saveFailure"
+					],
+					[
+						"sho",
+						"shouldDrawItself"
+					],
+					[
+						"is",
+						"isDrawn"
+					],
+					[
+						"dr",
+						"drawLineCode"
+					],
+					[
+						"pre",
+						"preventDefault"
+					],
+					[
+						"flight",
+						"flight_number"
+					],
+					[
+						"prom",
+						"promotions"
+					],
+					[
+						"drawin",
+						"drawingCard"
+					],
+					[
+						"selec",
+						"selectBox"
+					],
+					[
+						"has",
+						"hasClass"
+					],
+					[
+						"selectBo",
+						"selectBox-selected"
+					],
+					[
+						"elem",
+						"elemSelected"
+					],
+					[
+						"h",
+						"higherGround"
+					],
+					[
+						"regist",
+						"registerAuthor"
+					],
+					[
+						"dial",
+						"dialogWidth"
+					],
+					[
+						"input",
+						"input_html"
+					],
+					[
+						"success",
+						"successHandler"
+					],
+					[
+						"serve",
+						"serveJSON"
+					],
+					[
+						"b",
+						"b"
+					],
+					[
+						"tem",
+						"tempObj"
+					],
+					[
+						"tabs",
+						"tabs-reviews"
+					],
+					[
+						"perP",
+						"resultsPerPage"
+					],
+					[
+						"start",
+						"startingPage"
+					],
+					[
+						"results",
+						"resultsPerPage"
+					],
+					[
+						"filter",
+						"filteredResults"
+					],
+					[
+						"filtered",
+						"filteredResults"
+					],
+					[
+						"check",
+						"checkChange"
+					],
+					[
+						"hotel",
+						"hotel_searches"
+					],
+					[
+						"filt",
+						"filterManager"
+					],
+					[
+						"update",
+						"updateOrNo"
+					],
+					[
+						"hotels",
+						"hotels"
+					],
+					[
+						"_jq-re",
+						"_jq-no-rates-error"
+					],
+					[
+						"scrol",
+						"scrollTop"
+					],
+					[
+						"th",
+						"thresholdElement"
+					],
+					[
+						"pageMar",
+						"pageMarkerClass"
+					],
+					[
+						"_ajaxScroll",
+						"_ajaxScroll-pageMarker"
+					],
+					[
+						"text",
+						"texto"
+					],
+					[
+						"ax",
+						"axFilterUI"
+					],
+					[
+						"widg",
+						"widgetEventPrefix"
+					],
+					[
+						"value",
+						"value"
+					],
+					[
+						"val",
+						"val"
+					],
+					[
+						"fil",
+						"filter-type"
+					],
+					[
+						"filter-t",
+						"filter-tag"
+					],
+					[
+						"clear",
+						"clearFiltersAndFlyout"
+					],
+					[
+						"reset",
+						"resetFilter"
+					],
+					[
+						"filter-tag",
+						"filter-tag-row"
+					],
+					[
+						"filter-ta",
+						"filter-tag-row"
+					],
+					[
+						"muli",
+						"multiselect"
+					],
+					[
+						"multi",
+						"multiselect"
+					],
+					[
+						"tag",
+						"tag"
+					],
+					[
+						"Fi",
+						"FiltersAppliedFlyout"
+					],
+					[
+						"filter-",
+						"filter-tag-row"
+					],
+					[
+						"cle",
+						"clearBtn"
+					],
+					[
+						"def",
+						"defValue"
+					],
+					[
+						"get",
+						"getValue"
+					],
+					[
+						"HotelSea",
+						"HotelSearchMock"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/jpka/dev/jpka/public/casper.js",
+					"settings":
+					{
+						"buffer_size": 1445,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jpka/dev/jpka/client/routes.coffee",
+					"settings":
+					{
+						"buffer_size": 496,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jpka/dev/jpka/client/0/0_tests.coffee",
+					"settings":
+					{
+						"buffer_size": 1393,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jpka/dev/jpka/client/lib/deps/mocha.js",
+					"settings":
+					{
+						"buffer_size": 85180,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jpka/dev/jpka/public/node_modules/grunt-mocha/tasks/mocha/mocha-helper.js",
+					"settings":
+					{
+						"buffer_size": 1623,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jpka/dev/jpka/public/grunt.js",
+					"settings":
+					{
+						"buffer_size": 680,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jpka/dev/jpka/public/node_modules/grunt-mocha/tasks/mocha.js",
+					"settings":
+					{
+						"buffer_size": 9380,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jpka/dev/jpka/public/unit.hamlc",
+					"settings":
+					{
+						"buffer_size": 812,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 192.0,
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Add Repository"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Switch"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 153.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/jpka/dev/jpka/public/unit.hamlc",
+				"/home/jpka/dev/jpka/.meteor/local/build/static/client/0/0_tests.coffee.js",
+				"/home/jpka/dev/jpka/.meteor/local/build/static/client/routes.coffee.js",
+				"/home/jpka/dev/jpka/grunt.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/cart/cart_payment.scss",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/carts/checkout.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/_pay_with_amex_ccard.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/_payment_form.html.haml",
+				"/home/jpka/Dropbox/Dev/jpka/client/lib/chai-jquery.js",
+				"/home/jpka/Dropbox/Dev/jpka/jpka.coffee",
+				"/home/jpka/Dropbox/Dev/jpka/client/0_tests.coffee",
+				"/home/jpka/Dropbox/Dev/jpka/tests.coffee",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotels/checkout/_guest_info.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/shared.scss",
+				"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/cart/air_reprice.scss",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/flight_searches/flight_confirmation/_cost_billing_info.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/flight_searches/flight_review/_travel_benefits.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/helpers/ovt/flight_searches_helper.rb",
+				"/home/jpka/dev/iSeatz/amex/app/helpers/ovt/application_helper.rb",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/shared/_flight_rate_cards.html.haml",
+				"/home/jpka/dev/iSeatz/pbr/proto/air_shop_response.proto",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/cart_products/fare_rules.html.haml",
+				"/home/jpka/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/jpka/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/car/car_searches.scss",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/car/car_searches.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/car_searches/overlays/_rental_policies.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/car_searches/show.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/car_searches/_form.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/shared.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/car/car_omniture.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/car/car_shared.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/car_searches/_matrix.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotel_searches/_hotel_card.html.hbs",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/car_searches/overlays/_discount_codes.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/car_searches/overlays/_non_airport_rentals.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotel_searches/show.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotels/show.html.haml",
+				"/home/jpka/dev/iSeatz/pbr/proto/hotel_common.proto",
+				"/home/jpka/dev/iSeatz/ovt/app/controllers/ovt/hotels_controller.rb",
+				"/home/jpka/dev/iSeatz/ovt/app/models/ovt/hotel.rb",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotel_searches/_filter_form.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/ax/axHotelFilters.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/package/_flight_card.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/shared-components/shared-ui.scss",
+				"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/cart.scss",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/iz/izCatComplete.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/hotel/hotel_searches.scss",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/package/_your_flight.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/flight/_cart.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/package/_cart.html.haml",
+				"/home/jpka/dev/iSeatz/ovt/app/controllers/ovt/package_searches_controller.rb",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/iz/izLocationAutocomplete.js",
+				"/home/jpka/Dropbox/Dev/jpka/drawingCard",
+				"/home/jpka/Dropbox/Dev/jpka/client/test/drawing.coffee",
+				"/home/jpka/Dropbox/Dev/jpka/test/drawing.coffee",
+				"/home/jpka/Dropbox/Dev/jpka/drawCard.coffee",
+				"/home/jpka/Dropbox/Dev/ouroboros-api/node_modules/cucumber/node_modules/gherkin/lib/gherkin/lexer/en.js",
+				"/home/jpka/dev/iSeatz/amex/Gemfile",
+				"/home/jpka/dev/iSeatz/ovt/app/controllers/ovt/carts_controller.rb",
+				"/home/jpka/dev/iSeatz/ovt/app/controllers/ovt/cart_products_controller.rb",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/_pay_with_any_ccard.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/cars/checkout/_checkout_head.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/edit.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/air/air.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/air/checkout.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/air/air_shared.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/flight_searches/flight_review/_payment_form_logged.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/cars/checkout/_payment_form.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/_ccard_form.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/shared/_pay_with_ccard.html.haml",
+				"/usr/share/applications/skype.desktop",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/flight_searches/overlays/_help_overlay.html.haml",
+				"/home/jpka/Dropbox/Dev/ouroboros-api/features/replication.feature",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/cars/checkout/_driver_info.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/car/cars.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotels/checkout/_guest_room_info.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/carts/carts.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/cars/_car_checkout.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/car/cars.scss",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/hotel/hotels.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/carts/payment.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/car/_cart.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/cars/_car_info.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotels/checkout/_hotel_checkout.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/hotel/hotel_omniture.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/air/air_omniture.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/shared/_payment_form.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/ax/axMapForm.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/iz/izAjaxValidator.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/iz/izJSValidator.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/shared/_cc_information.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/flight_searches/flight_review/_who_is_flying.html.haml",
+				"/home/jpka/Dropbox/Dev/ouroboros-api/stab.coffee",
+				"/home/jpka/Dropbox/Dev/ouroboros-api/features/work.feature",
+				"/home/jpka/Dropbox/Dev/ouroboros-api/features/step_definitions/controllers.iced",
+				"/home/jpka/Dropbox/Dev/ouroboros-api/features/works/creation.feature",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/shared/_seat_selection.html.haml",
+				"/home/jpka/dev/iSeatz/ovt/app/models/ovt/seat_map.rb",
+				"/home/jpka/dev/iSeatz/ovt/app/models/ovt/passenger.rb",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/air/checkout_seats_selection.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/ax/axFilterUI.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/ax/axFiltersFlyout.js",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/application/_hotel_carousel_reviews.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/hotel/hotel_searches.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/ax/axCheckboxesList.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/package/package-shared.js",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/ax/axAjaxScroll.js",
+				"/home/jpka/dev/iSeatz/ovt/app/models/ovt/cart.rb",
+				"/home/jpka/dev/iSeatz/ovt/app/models/ovt/customer.rb",
+				"/home/jpka/dev/iSeatz/ovt/app/models/ovt/cart_product/hotel.rb",
+				"/home/jpka/dev/iSeatz/ovt/app/models/ovt/guest.rb",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/trip_lookups/show.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/cars/details/_driver_info.html.haml",
+				"/home/jpka/dev/iSeatz/ovt/app/models/ovt/flight_search.rb",
+				"/home/jpka/dev/iSeatz/amex/app/views/ovt/package_searches/_rp_your_hotel.html.haml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/package/package-show.js",
+				"/home/jpka/dev/iSeatz/amex/config/environments/fixed.rb",
+				"/home/jpka/dev/iSeatz/amex/config/environments/home.rb",
+				"/media/Ramirez/Dev/iSeatz/hotel_search_manager.rb",
+				"/home/jpka/dev/iSeatz/ovt/lib/ovt/hotel_search_manager.rb",
+				"/home/jpka/dev/iSeatz/amex/config/environments/office.rb",
+				"/home/jpka/dev/iSeatz/amex/config/environments/development.rb",
+				"/home/jpka/dev/iSeatz/ovt/config/locales/en.yml",
+				"/home/jpka/dev/iSeatz/amex/config/locales/en.yml",
+				"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/shared.scss",
+				"/home/jpka/dev/iSeatz/ovt/app/controllers/ovt/hotel_searches_controller.rb",
+				"/home/jpka/dev/iSeatz/ovt/app/controllers/ovt/locations_controller.rb"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/home/jpka/dev/jpka/public/node_modules/grunt-mocha/tasks/mocha",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/air",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/hotel",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/carts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/Dropbox/Dev/jpka/client",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotels/checkout",
+					"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotels",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/hotel",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex",
+					"/home/jpka/dev/iSeatz/pbr",
+					"/home/jpka/dev/iSeatz/ovt",
+					"/home/jpka/dev/iSeatz/amex",
+					"/home/jpka/dev/iSeatz/ovt",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/car_searches",
+					"/home/jpka/dev/iSeatz/amex/app",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/car_searches",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/car",
+					"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotel_searches",
+					"/home/jpka/dev/iSeatz/pbr/proto",
+					"/home/jpka/dev/iSeatz/ovt",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/hotels",
+					"/home/jpka/dev/iSeatz/amex",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/carts/package",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/flight_searches",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/car",
+					"/home/jpka/dev/OSS/cradle",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/cars",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/car",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets/car",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/stylesheets",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/ovt",
+					"/home/jpka/dev/iSeatz/amex",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/ovt",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/ovt/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/ovt/app/models",
+					"/home/jpka/dev/iSeatz/ovt",
+					"/home/jpka/dev/iSeatz/ovt/app/models/ovt",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/hotel",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts/hotel",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/flight_searches/flight_review",
+					"/home/jpka/dev/iSeatz/amex/app/views/ovt/flight_searches/flight_confirmation",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/ovt/app/controllers",
+					"/home/jpka/dev/iSeatz/amex/app/views",
+					"/home/jpka/dev/iSeatz/amex/app/assets/javascripts",
+					"/media/Ramirez/Dev/iSeatz/amex/app/assets/javascripts",
+					"/media/Ramirez/Dev/iSeatz/amex/app/assets/javascripts/ax",
+					"/home/jpka/dev/iSeatz/ovt",
+					"/home/jpka/dev/iSeatz/amex",
+					"/home/jpka/dev/iSeatz/ovt",
+					"/home/jpka/dev/iSeatz",
+					"/media/Ramirez/Dev/iSeatz/amex/app/assets/stylesheets",
+					"/media/Ramirez/Dev/iSeatz/amex/app/assets/javascripts",
+					"/media/Ramirez/Dev/iSeatz/amex/app/views",
+					"/media/Ramirez/Dev/iSeatz/amex/app/assets/javascripts",
+					"/media/Ramirez/Dev/iSeatz/amex/app/views",
+					"/media/Ramirez/Dev/iSeatz/amex/app/assets/javascripts"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"urls",
+					"reporter",
+					"webcon",
+					"reporter",
+					"web",
+					"reporter",
+					"webcon",
+					"models",
+					"currentStyle",
+					"jsonPro",
+					"moreHotelsRequest",
+					"pay-with-points-form",
+					"paymentValidator",
+					"paymentInfo",
+					"payment-module",
+					"user",
+					".payment-module",
+					"add",
+					"gallery.less",
+					"fix",
+					"params",
+					"valid",
+					"should",
+					"#guest-info",
+					"_jq-edit",
+					"edit-guests",
+					"edit-payment",
+					"_jq-custom-edit",
+					"edit-guests",
+					"jq-custom-edit",
+					"._jq-air-taxes-fees-link",
+					"underline",
+					"total_price",
+					"air-taxes-fees-link",
+					"Airpo",
+					"collapsed_change_of_airport",
+					"collapsed_change_planes",
+					"change_of_airport",
+					"white",
+					"change_airport",
+					"airport",
+					"collapsed_change_planes",
+					"airport",
+					"Change airport",
+					"expanded_change_airport",
+					"airport_change_at",
+					"change of ai",
+					"info-layovers",
+					"info_layovers",
+					"fares-dialog",
+					"#_jq-rental-policies-dialog",
+					"rental-policies",
+					"rental",
+					"car rental rates",
+					"car_rental_rates",
+					"scrollbar",
+					"scroll-bar",
+					"one-way-rentals",
+					"about-airport",
+					"airport",
+					"setCarDialog",
+					"setCarDialo",
+					"function setCarDi",
+					"setCarDi",
+					"help-title-cars",
+					"How do I search",
+					"about-airport",
+					"non-airport",
+					"More",
+					"promotion-more",
+					"promo-tip",
+					"promotionalInfo",
+					"message Rate",
+					"Rate",
+					"promo",
+					"offer",
+					"special",
+					"first_detail_column",
+					"special offer",
+					"ctrl",
+					"last-selected",
+					"elemSelected",
+					"selectBox-last-selected",
+					"multi",
+					"selectBox-menuShowing",
+					"flight_search_preferred_airlines",
+					"flight_search",
+					"select",
+					"select-preferred",
+					"select-preferred-airlines",
+					"charges-restrictions",
+					"name-filter-wrapper",
+					"axHotelFilterSpi",
+					"spinner",
+					"zIndex",
+					"z-index",
+					"title-details",
+					"roundtrip",
+					"flight-information",
+					"title-details-holder",
+					"paper",
+					"imagesLoadError",
+					"allowedK",
+					"= 13",
+					"commit",
+					"li.button",
+					"li-button",
+					"commit",
+					"button-search-cars",
+					"button",
+					"commit",
+					"create",
+					"button-search-cars",
+					"SCENARIO",
+					"prototype.request",
+					"request",
+					"imagesLoadError",
+					"side-box",
+					"why-book",
+					"why book",
+					"why bookç",
+					"whybook",
+					"mock",
+					"_reser",
+					"confir",
+					"fareRulesDialog",
+					"charge your card",
+					"we wont charge"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"customer.",
+					"this.page "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/jpka/dev/jpka"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 7,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/jpka/dev/jpka/public/casper.js",
+							"settings":
+							{
+								"buffer_size": 1445,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										111,
+										111
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"text-indent": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 0.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"Python Django": "python"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/jpka/dev/jpka/client/routes.coffee",
+							"settings":
+							{
+								"buffer_size": 496,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										403,
+										403
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"text-indent": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 0.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"Python Django": "python"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/jpka/dev/jpka/client/0/0_tests.coffee",
+							"settings":
+							{
+								"buffer_size": 1393,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1200,
+										1200
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"text-indent": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 0.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"Python Django": "python"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 270.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/jpka/dev/jpka/client/lib/deps/mocha.js",
+							"settings":
+							{
+								"buffer_size": 85180,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										35698,
+										35704
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"text-indent": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 0.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"Python Django": "python"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 26683.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/jpka/dev/jpka/public/node_modules/grunt-mocha/tasks/mocha/mocha-helper.js",
+							"settings":
+							{
+								"buffer_size": 1623,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1618,
+										1618
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"text-indent": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 0.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"Python Django": "python"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/jpka/dev/jpka/public/grunt.js",
+							"settings":
+							{
+								"buffer_size": 680,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										34,
+										34
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"text-indent": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 0.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"Python Django": "python"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/jpka/dev/jpka/public/node_modules/grunt-mocha/tasks/mocha.js",
+							"settings":
+							{
+								"buffer_size": 9380,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6358,
+										6358
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"text-indent": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 0.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"Python Django": "python"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/jpka/dev/jpka/public/unit.hamlc",
+							"settings":
+							{
+								"buffer_size": 812,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"text-indent": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 0.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"Python Django": "python"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,1,0,0,0,0,0,0,0,1280,800",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 371.0,
+			"status_bar_visible": true,
+			"window_id": 52,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
