@@ -10,7 +10,7 @@ local rvm_ruby='%{$fg[red]%}‹$(rvm current)>'
 local git_branch='$(git_prompt_info)'
 local node_v=''
 if which node &> /dev/null; then
-  node_v='%{$fg[green]%}<$(node -v)>%{$reset_color%}'
+  node_v='%{$fg[green]%}<node $(node -v)>%{$reset_color%}'
 fi
 PROMPT="╭${current_dir} ${git_branch} ${rvm_ruby} ${node_v}
 ╰%B>%b "

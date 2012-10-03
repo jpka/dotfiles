@@ -180,7 +180,7 @@ class ExecCommand(sublime_plugin.WindowCommand, ProcessListener):
         try:
             str = data.decode(self.encoding)
         except:
-            str = "[Decode error - output not " + self.encoding + "]\n"
+            str = "[Decode error - output not " + self.encoding + "]"
             proc = None
 
         # Normalize newlines, Sublime Text always uses a single \n separator

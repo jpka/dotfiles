@@ -39,6 +39,7 @@ export PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/bi
 # CUSTOM
 unsetopt correct_all
 
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"  # This loads RVM into a shell
 . ~/nvm/nvm.sh
 
 [[ -s "/home/jpka/.rvm/scripts/rvm" ]] && source "/home/jpka/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
@@ -47,3 +48,4 @@ unsetopt correct_all
 precmd () {
   z --add "$(pwd -P)"
 }
+
