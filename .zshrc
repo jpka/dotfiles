@@ -31,21 +31,25 @@ ZSH_THEME="jpka"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 plugins=(git node ruby vim jpka)
 
-source $ZSH/oh-my-zsh.sh
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"  # This loads RVM into a shell
+source "$HOME/nvm/nvm.sh"
+#nvm use default
 
 # Customize to your needs...
-export PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/bin/core_perl:/home/jpka/.rvm/bin
+#export NVM_BIN=$HOME/nvm/$(node -v)/bin
+export PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/bin/core_perl:$HOME/.rvm/bin:$NVM_BIN:/data/bin/mongodb/bin:/data/bin/phantomjs/bin:/data/bin/CEF3/depot_tools
+export PHANTOMJS_BIN=$NVM_BIN/phantomjs
+
+source $ZSH/oh-my-zsh.sh
 
 # CUSTOM
 unsetopt correct_all
-
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"  # This loads RVM into a shell
-. ~/nvm/nvm.sh
-
-[[ -s "/home/jpka/.rvm/scripts/rvm" ]] && source "/home/jpka/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
 
 . ~/z.sh
 precmd () {
   z --add "$(pwd -P)"
 }
 
+alias sudo='sudo env PATH=$PATH'
+
+rvm use default

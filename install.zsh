@@ -7,13 +7,18 @@ if ! test -d $OHMY
 fi
 
 local CUSTOM=$OHMY/custom
-rm -r $CUSTOM
+rm -rf $CUSTOM
 ln -s -f $PWD/oh-my-zsh $CUSTOM
 
 ln -f .zshrc $HOME/.zshrc
+ln -f .vimrc $HOME/.vimrc
 
 cp z.sh $HOME/.
 
 local ST2C=$HOME/.config/sublime-text-2
-rm -r $ST2C
+rm -rf $ST2C
 ln -s -f $PWD/sublime-text-2 $ST2C
+
+local VIM=$HOME/.vim
+rm -rf $VIM
+ln -s -f $PWD/.vim $VIM
